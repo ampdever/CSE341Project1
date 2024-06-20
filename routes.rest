@@ -1,0 +1,16 @@
+// LOCALHOST
+
+### get all contacts
+GET http://localhost:3000/contacts
+
+### get contact for me (Aaron Magallanes)
+GET http://localhost:3000/contacts/667370c35ca61e829cc6ee83
+
+
+
+// PRODUCTION
+### get all contacts
+GET https://cse341project1-xl3h.onrender.com/contacts
+
+### get contact for me (Aaron Magallanes)
+GET https://cse341project1-xl3h.onrender.com/contacts/667370c35ca61e829cc6ee83
